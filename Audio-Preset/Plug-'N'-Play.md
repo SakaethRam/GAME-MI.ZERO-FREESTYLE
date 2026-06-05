@@ -36,7 +36,7 @@ This module behaves as a conditional UI segment tied to tab state and audio runt
 
 ```id="arch2"
           +----------------------+
-          |   Tab পরিবর্তন        |
+          |         Tab          |
           +----------+-----------+
                      |
               tab === 'audio'
